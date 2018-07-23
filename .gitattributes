@@ -1,3 +1,3 @@
-neosnippets/* linguist-vendored=true
 *.snip linguist-language=XML
-
+*.snip linguist-vendored=XML
+neosnippets/* linguist-vendored=true
